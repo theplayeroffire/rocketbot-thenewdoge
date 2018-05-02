@@ -8,7 +8,7 @@ client.login('NDQxMjE1MzE0OTUzMjQwNTc4.DctBjA.bXoa9V1O2f_zMGysZ8GN1c6A4qM');
 
 client.on('ready', () => {
     console.log("bot ready to start!")
-    client.user.setGame('cache cache ^^');
+    client.user.setGame('cache cache !^^');
 });
 
 client.on('message', message => {
